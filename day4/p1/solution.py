@@ -1,4 +1,4 @@
-i = 156218
+i = 236491
 #print(str(i)[0:2])
 #It is a six-digit number. **
 #The value is within the range given in your puzzle input. **
@@ -22,7 +22,7 @@ def assendingDending(num):
 	return True
 somme = 0
 
-while i <= 652527:
+while i <= 713787:
 	i += 1
 	if not(adjacentEqual(i)) or not(assendingDending(i)):
 		continue

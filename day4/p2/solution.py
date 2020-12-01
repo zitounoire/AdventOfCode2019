@@ -1,4 +1,4 @@
-i = 156217
+i = 236491
 #print(str(i)[0:2])
 #It is a six-digit number. **
 #The value is within the range given in your puzzle input. **
@@ -44,7 +44,7 @@ somme = 0
 print(adjacentEqual(112233))
 print(adjacentEqual(123444))
 print(adjacentEqual(111122))
-while i <= 652527:
+while i <= 713787:
 	i += 1
 	if not(adjacentEqual(i)) or not(assendingDending(i)):
 		continue
