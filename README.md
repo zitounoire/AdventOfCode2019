@@ -7,4 +7,5 @@ To compensate for my sin. The comment/code ratio in day five is significatly bet
 
 # AdventOfCode2020
 
-Well day1 was pretty chill.
+* Well day1 was pretty chill.
+* day2 part 2 fucked me real good, still got the stars though.
