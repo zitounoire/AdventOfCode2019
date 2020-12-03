@@ -15,6 +15,6 @@ def bi_slide(right, skip):
 
 trail = [line.strip('\n') for line in open('input.txt','r').readlines()]
 
-print('Part 1: ', bi_slide(3,False)) # day 1
+print('Part 1: ', bi_slide(3,False)) # part 1
 
-print('Part 2: ', numpy.prod([bi_slide(i,bool(i==2)) for i in [1,2,3,5,7]])) # day 2
+print('Part 2: ', numpy.prod([bi_slide(i,bool(i==2)) for i in [1,2,3,5,7]])) # part 2
