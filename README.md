@@ -9,3 +9,4 @@ To compensate for my sin. The comment/code ratio in day five is significatly bet
 
 * Well day1 was pretty chill.
 * day2 part 2 fucked me real good, still got the stars though.
+* day3, i struggled a bit to understand how to use the input puzzle, but once i did it was smooth sailing from there.
