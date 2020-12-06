@@ -3,6 +3,7 @@
 billets = [item.strip() for item in open('input.txt','r').readlines()]
 
 IDs_list = [int(billet.replace('F','0').replace('B','1').replace('L','0').replace('R','1'),2) for billet in billets]
+
 test =[15,944,945,946,947]
 for row in range(2,118):
     for col in range(8):
